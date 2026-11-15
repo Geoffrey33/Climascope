@@ -1,5 +1,7 @@
 # Climascope Card
 
+🇫🇷 [Version française](README.fr.md)
+
 A Home Assistant Lovelace card that shows the climate of your whole home at a glance: home average, outdoor temperature and one tile per room (temperature, humidity, heating). Everything is configurable from the visual editor.
 
 <!-- Capture d'écran : ajouter images/screenshot.png puis décommenter
