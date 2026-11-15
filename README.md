@@ -162,4 +162,4 @@ rooms:
 
 ## License
 
-MIT © Geoffrey Pronier
+MIT — see [LICENSE](LICENSE).
