@@ -4,9 +4,20 @@
 
 Une carte Lovelace pour Home Assistant qui affiche d'un coup d'œil le climat de toute la maison : moyenne maison, température extérieure et une tuile par pièce (température, humidité, chauffage). Toutes les options se règlent depuis l'éditeur visuel.
 
-<!-- Capture d'écran : ajouter images/screenshot.png puis décommenter
 ![Climascope](images/screenshot.png)
--->
+
+<details>
+<summary>Autres captures</summary>
+
+| Thème clair | Disposition compacte |
+| --- | --- |
+| ![Thème clair](images/light.png) | ![Disposition compacte](images/compact.png) |
+
+Graphique d'historique à l'appui long :
+
+![Graphique d'historique](images/graph.png)
+
+</details>
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://hacs.xyz/)
 

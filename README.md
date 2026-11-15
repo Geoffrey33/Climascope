@@ -4,9 +4,20 @@
 
 A Home Assistant Lovelace card that shows the climate of your whole home at a glance: home average, outdoor temperature and one tile per room (temperature, humidity, heating). Everything is configurable from the visual editor.
 
-<!-- Capture d'écran : ajouter images/screenshot.png puis décommenter
 ![Climascope](images/screenshot.png)
--->
+
+<details>
+<summary>More screenshots</summary>
+
+| Light theme | Compact layout |
+| --- | --- |
+| ![Light theme](images/light.png) | ![Compact layout](images/compact.png) |
+
+Long-press history graph:
+
+![History graph](images/graph.png)
+
+</details>
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://hacs.xyz/)
 
