@@ -1,4 +1,6 @@
-# Climascope Card
+<p align="center"><img src="images/icon.png" alt="" width="128"></p>
+
+<h1 align="center">Climascope Card</h1>
 
 🇫🇷 [Version française](README.fr.md)
 
